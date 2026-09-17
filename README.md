@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Dorette Youfoute 👋
 
-<!--
-**DoretteRuby/DoretteRuby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about software development, mobile applications, and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Computer Science student
+- 💻 Interested in software development and mobile applications
+- 🌱 Currently improving my programming and IT skills
+- 📱 Building personal projects with modern technologies
+- 🤝 Open to learning, collaboration and new opportunities
+
+## 🛠️ Technologies & Tools
+
+- Python
+- JavaScript
+- React Native
+- HTML & CSS
+- Git & GitHub
+- Firebase
+- SQL
+- Linux
+
+## 📌 Featured Projects
+
+- 🚕 Ezechiel — Mobile application project
+- 🤖 AI Meme Studio — AI-powered creative project
+- 🎬 CapCutClone — Video editing application project
+
+## 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/dorette-youfoute-7a6b11322)
+
+📍 Yaoundé, Cameroon
+
+---
+
+⭐ Thanks for visiting my profile!
